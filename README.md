@@ -1,12 +1,12 @@
 # Desafio LH Nautical — Jornada de Dados
 
-Projeto desenvolvido como parte do processo seletivo da Indicium, simulando a atuação de um profissional de dados na LH Nautical — empresa de varejo de peças e acessórios para embarcações.
+Projeto desenvolvido como parte do processo seletivo da Indicium, simulando a atuação de um profissional de dados na LH Nautical, empresa de varejo de peças e acessórios para embarcações.
 
 ---
 
 ## Contexto
 
-A LH Nautical enfrenta um cenário de desorganização de dados: controle de estoque em planilhas manuais, desconexão entre sistemas e decisões baseadas em "feeling". O objetivo deste projeto é transformar esse cenário através de uma jornada completa de dados — da limpeza e modelagem até a geração de insights preditivos e sistemas de recomendação.
+A LH Nautical enfrenta um cenário de desorganização de dados: controle de estoque em planilhas manuais, desconexão entre sistemas e decisões baseadas em "feeling". O objetivo deste projeto é transformar esse cenário através de uma jornada completa de dados, da limpeza e modelagem até a geração de insights preditivos e sistemas de recomendação.
 
 ---
 
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Execute os notebooks
-Abra os notebooks na pasta `scripts/` em ordem — cada questão parte dos dados tratados pela anterior.
+Abra os notebooks na pasta `scripts/` em ordem cada questão parte dos dados tratados pela anterior.
 
 ---
 
